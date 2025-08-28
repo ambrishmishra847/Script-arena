@@ -145,14 +145,19 @@ AI Assistant: Ask for hints, explanations, debugging, or additional test cases.
 Profile: Track solved count, attempts, and path progress.
 
 🖼 Screenshots
-Landing Page	Why Script Arena?
-<img src="docs/screenshots/Screenshot(11).png" width="600" />	<img src="docs/screenshots/Screenshot (12).png" width="600" />
-Dashboard	Profile Page
-<img src="docs/screenshots/Screenshot (13).png" width="600" />	<img src="docs/screenshots/Screenshot (14).png" width="600" />
-Problems (Two Sum)	Problems (Valid Parentheses)
-<img src="docs/screenshots/Screenshot (15).png" width="600" />	<img src="docs/screenshots/Screenshot (16).png" width="600" />
-Learning Paths	README Preview
-<img src="docs/screenshots/Screenshot (17).png" width="600" />	<img src="docs/screenshots/Screenshot (18).png" width="600" />
+| Landing Page                                                   | Why Script Arena?                                              |
+| -------------------------------------------------------------- | -------------------------------------------------------------- |
+| <img src="docs/screenshots/Screenshot (11).png" width="600" /> | <img src="docs/screenshots/Screenshot (12).png" width="600" /> |
+| Dashboard                                                      | Profile Page                                                   |
+| -------------------------------------------------------------- | -------------------------------------------------------------- |
+| <img src="docs/screenshots/Screenshot (13).png" width="600" /> | <img src="docs/screenshots/Screenshot (14).png" width="600" /> |
+| Problems (Two Sum)                                             | Problems (Valid Parentheses)                                   |
+| -------------------------------------------------------------- | -------------------------------------------------------------- |
+| <img src="docs/screenshots/Screenshot (15).png" width="600" /> | <img src="docs/screenshots/Screenshot (16).png" width="600" /> |
+| Learning Paths                                                 | README Preview                                                 |
+| -------------------------------------------------------------- | -------------------------------------------------------------- |
+| <img src="docs/screenshots/Screenshot (17).png" width="600" /> | <img src="docs/screenshots/Screenshot (18).png" width="600" /> |
+
 💻 Examples
 Example: Two Sum (JS)
 function twoSum(nums, target) {
@@ -214,6 +219,7 @@ Your Name (@your-username) – creator & maintainer
 📜 License
 MIT © 2025 Ambrish Mishra
 github: ambrishmishra847
+
 
 
 
