@@ -146,7 +146,7 @@ Profile: Track solved count, attempts, and path progress.
 
 🖼 Screenshots
 Landing Page	Why Script Arena?
-<img src="docs/screenshots/Screenshot (11).png" width="600" />	<img src="docs/screenshots/Screenshot (12).png" width="600" />
+<img src="docs/screenshots/Screenshot(11).png" width="600" />	<img src="docs/screenshots/Screenshot (12).png" width="600" />
 Dashboard	Profile Page
 <img src="docs/screenshots/Screenshot (13).png" width="600" />	<img src="docs/screenshots/Screenshot (14).png" width="600" />
 Problems (Two Sum)	Problems (Valid Parentheses)
@@ -214,5 +214,6 @@ Your Name (@your-username) – creator & maintainer
 📜 License
 MIT © 2025 Ambrish Mishra
 github: ambrishmishra847
+
 
 
